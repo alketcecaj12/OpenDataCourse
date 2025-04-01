@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Schema name="AMB_PARCHI_CARTELLI_1" id="AMB_PARCHI_CARTELLI_1">
+            <SimpleField type="string" name="OGR_FID"/>
+            <SimpleField type="string" name="ID"/>
+            <SimpleField type="string" name="NOME"/>
+            <SimpleField type="string" name="PARCO"/>
+        </Schema>
+        <Folder>
+            <name>AMB_PARCHI_CARTELLI</name>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dde">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">1</SimpleData>
+                        <SimpleData name="ID">195786</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE_100</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6064455171851,44.6726489608394</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2ddf">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">2</SimpleData>
+                        <SimpleData name="ID">195760</SimpleData>
+                        <SimpleData name="PARCO">BOSCO ENRICO BERLINGUER_1083</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.652116152594,44.6959020329577</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">3</SimpleData>
+                        <SimpleData name="ID">195791</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLA PACE - OLIVER TAMBO_13</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6190961620345,44.680226942578</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">4</SimpleData>
+                        <SimpleData name="ID">195789</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLA PACE - OLIVER TAMBO_13</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6183925929571,44.6794175617585</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">5</SimpleData>
+                        <SimpleData name="ID">195828</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLE CAPRETTE _15</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6235682737367,44.679439367901</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">6</SimpleData>
+                        <SimpleData name="ID">195889</SimpleData>
+                        <SimpleData name="PARCO">PARCO SANTA MARIA_279</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6370255813735,44.6998746713372</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">7</SimpleData>
+                        <SimpleData name="ID">195890</SimpleData>
+                        <SimpleData name="PARCO">PARCO SANTA MARIA_279</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6373493993698,44.7006748759531</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">8</SimpleData>
+                        <SimpleData name="ID">195891</SimpleData>
+                        <SimpleData name="PARCO">PARCO SANTA MARIA_279</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6364000798744,44.7006668806951</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">9</SimpleData>
+                        <SimpleData name="ID">195738</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL POPOLO_286</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6320761116746,44.7024090985263</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">10</SimpleData>
+                        <SimpleData name="ID">195736</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL POPOLO_286</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6308207650711,44.7007522926823</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">11</SimpleData>
+                        <SimpleData name="ID">195734</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL POPOLO_286</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6320137380621,44.7011515277596</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2de9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">12</SimpleData>
+                        <SimpleData name="ID">195735</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL POPOLO_286</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6312163761376,44.7016559592243</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dea">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">13</SimpleData>
+                        <SimpleData name="ID">195737</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL POPOLO_286</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6299585354169,44.7036032031699</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2deb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">14</SimpleData>
+                        <SimpleData name="ID">195727</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL CARROZZONE_304</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6131905882427,44.7112171551357</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dec">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">15</SimpleData>
+                        <SimpleData name="ID">195865</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL CARROZZONE_304</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6132387770752,44.7103066155422</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2ded">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">16</SimpleData>
+                        <SimpleData name="ID">195866</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL CARROZZONE_304</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6123740543872,44.7097186063842</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dee">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">17</SimpleData>
+                        <SimpleData name="ID">195867</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL CARROZZONE_304</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6130172847924,44.7095475586164</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2def">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">18</SimpleData>
+                        <SimpleData name="ID">195868</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL CARROZZONE_304</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6139149051475,44.7091149081763</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df0">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">19</SimpleData>
+                        <SimpleData name="ID">195756</SimpleData>
+                        <SimpleData name="PARCO">PARCO GLI ACERI_305</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6276193652712,44.7088715094712</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df1">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">20</SimpleData>
+                        <SimpleData name="ID">195893</SimpleData>
+                        <SimpleData name="PARCO">PARCO LE PAULONIE_322</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6487404727255,44.6939780152822</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df2">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">21</SimpleData>
+                        <SimpleData name="ID">195894</SimpleData>
+                        <SimpleData name="PARCO">PARCO LE PAULONIE_322</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6468118385062,44.6948382945777</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df3">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">22</SimpleData>
+                        <SimpleData name="ID">195759</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL CILIEGIO_323</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6458377721318,44.7078926673576</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df4">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">23</SimpleData>
+                        <SimpleData name="ID">195854</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL DIAMANTE_358</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6040120817481,44.6958307375691</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df5">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">24</SimpleData>
+                        <SimpleData name="ID">195855</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL DIAMANTE_358</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6052069106728,44.6959282777009</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df6">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">25</SimpleData>
+                        <SimpleData name="ID">195856</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL DIAMANTE_358</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6057486216699,44.6963785136156</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df7">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">26</SimpleData>
+                        <SimpleData name="ID">195886</SimpleData>
+                        <SimpleData name="PARCO">PARCO PAOLO DAVOLI "SARTORIO"_359</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6123513445496,44.7007230344914</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df8">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">27</SimpleData>
+                        <SimpleData name="ID">195864</SimpleData>
+                        <SimpleData name="PARCO">PARCO GIACOMO MATTEOTTI - PARCO DEL MIRA</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6389284081073,44.6924084336025</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2df9">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">28</SimpleData>
+                        <SimpleData name="ID">195835</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLA MIRANDOLA_367</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5969984801007,44.7050636968281</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dfa">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">29</SimpleData>
+                        <SimpleData name="ID">195836</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLA MIRANDOLA_367</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5979376797949,44.7066150924969</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dfb">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">30</SimpleData>
+                        <SimpleData name="ID">195771</SimpleData>
+                        <SimpleData name="PARCO">PARCO I FRASSINI_368</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5909575832011,44.711395157405</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dfc">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">31</SimpleData>
+                        <SimpleData name="ID">195766</SimpleData>
+                        <SimpleData name="PARCO">PARCO LE QUERCE ROSSE_388</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6160588144182,44.7001161402901</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dfd">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">32</SimpleData>
+                        <SimpleData name="ID">195765</SimpleData>
+                        <SimpleData name="PARCO">PARCO LE QUERCE ROSSE_388</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6152080585749,44.7001460398003</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dfe">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">33</SimpleData>
+                        <SimpleData name="ID">195767</SimpleData>
+                        <SimpleData name="PARCO">PARCO LE QUERCE ROSSE_388</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6167539053763,44.7001685305681</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2dff">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">34</SimpleData>
+                        <SimpleData name="ID">195869</SimpleData>
+                        <SimpleData name="PARCO">PARCO BADEN POWELL già parco le querce_4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6360595285777,44.6860904857292</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e00">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">35</SimpleData>
+                        <SimpleData name="ID">195870</SimpleData>
+                        <SimpleData name="PARCO">PARCO BADEN POWELL già parco le querce_4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6361992319568,44.6861385859584</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e01">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">36</SimpleData>
+                        <SimpleData name="ID">195871</SimpleData>
+                        <SimpleData name="PARCO">PARCO BADEN POWELL già parco le querce_4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6354256048823,44.6865806970097</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e02">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">37</SimpleData>
+                        <SimpleData name="ID">195872</SimpleData>
+                        <SimpleData name="PARCO">PARCO BADEN POWELL già parco le querce_4</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6352315456684,44.6870407888551</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e03">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">38</SimpleData>
+                        <SimpleData name="ID">195822</SimpleData>
+                        <SimpleData name="PARCO">PARCO ISOLA VERDE_410</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6404024727929,44.6751557631594</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e04">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">39</SimpleData>
+                        <SimpleData name="ID">195820</SimpleData>
+                        <SimpleData name="PARCO">PARCO ISOLA VERDE_410</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6412563223174,44.6746575992339</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e05">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">40</SimpleData>
+                        <SimpleData name="ID">195821</SimpleData>
+                        <SimpleData name="PARCO">PARCO ISOLA VERDE_410</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6415694937153,44.6749864590157</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e06">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">41</SimpleData>
+                        <SimpleData name="ID">195850</SimpleData>
+                        <SimpleData name="PARCO">PARCO I CARPINI_412</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6402988937036,44.6792630676392</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e07">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">42</SimpleData>
+                        <SimpleData name="ID">195840</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL MAURIZIANO - LUDOVICO ARIOSTO_</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6720826460878,44.6823584325901</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e08">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">43</SimpleData>
+                        <SimpleData name="ID">195837</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELL'ACQUA_467</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6573331282468,44.6819163391987</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e09">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">44</SimpleData>
+                        <SimpleData name="ID">195832</SimpleData>
+                        <SimpleData name="PARCO">PARCO GIORGIO LA PIRA_538</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6150851827953,44.6575925410808</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e0a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">45</SimpleData>
+                        <SimpleData name="ID">195772</SimpleData>
+                        <SimpleData name="PARCO">PARCO AMARENZIO MONTANARI_589</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5761185142559,44.7373584949775</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e0b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">46</SimpleData>
+                        <SimpleData name="ID">195798</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NATURONE_595</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5182848531627,44.7387846548285</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e0c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">47</SimpleData>
+                        <SimpleData name="ID">195793</SimpleData>
+                        <SimpleData name="PARCO">PARCO MARTIRI DI VILLA SESSO_615</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6163905711711,44.7409994792382</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e0d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">48</SimpleData>
+                        <SimpleData name="ID">195792</SimpleData>
+                        <SimpleData name="PARCO">PARCO MARTIRI DI VILLA SESSO_615</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.615768084748,44.7415729911233</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e0e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">49</SimpleData>
+                        <SimpleData name="ID">195794</SimpleData>
+                        <SimpleData name="PARCO">PARCO MARTIRI DI VILLA SESSO_615</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6182842987764,44.7412039083874</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e0f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">50</SimpleData>
+                        <SimpleData name="ID">195795</SimpleData>
+                        <SimpleData name="PARCO">PARCO MARTIRI DI VILLA SESSO_615</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6184558074797,44.7416016232599</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e10">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">51</SimpleData>
+                        <SimpleData name="ID">195884</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL GHIRLANDAIO_637</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5920013194614,44.7080140874726</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e11">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">52</SimpleData>
+                        <SimpleData name="ID">195831</SimpleData>
+                        <SimpleData name="PARCO">PARCO BIASOLA_675</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5789911072469,44.6704347868395</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e12">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">53</SimpleData>
+                        <SimpleData name="ID">195829</SimpleData>
+                        <SimpleData name="PARCO">PARCO BIASOLA_675</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5799114827214,44.6702184102739</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e13">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">54</SimpleData>
+                        <SimpleData name="ID">195830</SimpleData>
+                        <SimpleData name="PARCO">PARCO BIASOLA_675</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5788130868886,44.6701478537529</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e14">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">55</SimpleData>
+                        <SimpleData name="ID">195805</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLA RESISTENZA_688</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.632804676431,44.7092686604856</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e15">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">56</SimpleData>
+                        <SimpleData name="ID">195806</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLA RESISTENZA_688</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6332263915994,44.7098937239684</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e16">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">57</SimpleData>
+                        <SimpleData name="ID">195774</SimpleData>
+                        <SimpleData name="PARCO">PARCO PAOLO da REGGIO_728</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5971866102187,44.6948179846228</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e17">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">58</SimpleData>
+                        <SimpleData name="ID">195783</SimpleData>
+                        <SimpleData name="PARCO">PARCO SAN BARTOLOMEO_736</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5390617045651,44.6756060836177</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e18">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">59</SimpleData>
+                        <SimpleData name="ID">195780</SimpleData>
+                        <SimpleData name="PARCO">PARCO LE GINESTRE_738</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.585023237484,44.653649929161</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e19">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">60</SimpleData>
+                        <SimpleData name="ID">195729</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6362703483133,44.6768014489657</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e1a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">61</SimpleData>
+                        <SimpleData name="ID">195810</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6372316936777,44.67909138962</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e1b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">62</SimpleData>
+                        <SimpleData name="ID">195811</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6368321322567,44.6784343882699</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e1c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">63</SimpleData>
+                        <SimpleData name="ID">195812</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6372818233359,44.678695899222</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e1d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">64</SimpleData>
+                        <SimpleData name="ID">195813</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6376700205683,44.6782556469769</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e1e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">65</SimpleData>
+                        <SimpleData name="ID">195814</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6386069896642,44.6768547839054</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e1f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">66</SimpleData>
+                        <SimpleData name="ID">195815</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6387694245075,44.6763999030771</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e20">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">67</SimpleData>
+                        <SimpleData name="ID">195816</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6401048832819,44.6765527623434</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e21">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">68</SimpleData>
+                        <SimpleData name="ID">195824</SimpleData>
+                        <SimpleData name="PARCO">PARCO NELSON MANDELA_752</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6390856958833,44.6753531492889</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e22">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">69</SimpleData>
+                        <SimpleData name="ID">195777</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL QUINZIO_828</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.661376323757,44.6841041319254</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e23">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">70</SimpleData>
+                        <SimpleData name="ID">195776</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL QUINZIO_828</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6614590806529,44.6837873342662</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e24">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">71</SimpleData>
+                        <SimpleData name="ID">195778</SimpleData>
+                        <SimpleData name="PARCO">PARCO DEL QUINZIO_828</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6601101830077,44.6847775503416</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e25">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">72</SimpleData>
+                        <SimpleData name="ID">195748</SimpleData>
+                        <SimpleData name="PARCO">PARCO I PLATANI_856</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6128944934966,44.6841433457573</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e26">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">73</SimpleData>
+                        <SimpleData name="ID">195746</SimpleData>
+                        <SimpleData name="PARCO">PARCO I PLATANI_856</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6126917472407,44.6851989820786</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e27">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">74</SimpleData>
+                        <SimpleData name="ID">195745</SimpleData>
+                        <SimpleData name="PARCO">PARCO I PLATANI_856</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6118247740715,44.6857608631993</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e28">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">75</SimpleData>
+                        <SimpleData name="ID">195747</SimpleData>
+                        <SimpleData name="PARCO">PARCO I PLATANI_856</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.612381183368,44.6844745243249</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e29">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">76</SimpleData>
+                        <SimpleData name="ID">195750</SimpleData>
+                        <SimpleData name="PARCO">PARCO I PLATANI_856</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6141091461349,44.6838808551593</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e2a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">77</SimpleData>
+                        <SimpleData name="ID">195876</SimpleData>
+                        <SimpleData name="PARCO">CAMPO DI MARTE II_857</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6535242412471,44.6850355276918</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e2b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">78</SimpleData>
+                        <SimpleData name="ID">195877</SimpleData>
+                        <SimpleData name="PARCO">CAMPO DI MARTE II_857</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.655235888582,44.6857455100738</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e2c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">79</SimpleData>
+                        <SimpleData name="ID">195726</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.640104755025,44.6848068351557</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e2d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">80</SimpleData>
+                        <SimpleData name="ID">195844</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6396304343615,44.6843245501846</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e2e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">81</SimpleData>
+                        <SimpleData name="ID">195845</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6400062583753,44.6830901245076</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e2f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">82</SimpleData>
+                        <SimpleData name="ID">195846</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.639181212632,44.6826017833387</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e30">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">83</SimpleData>
+                        <SimpleData name="ID">195847</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6398375448761,44.6824351593976</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e31">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">84</SimpleData>
+                        <SimpleData name="ID">195848</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.640756120184,44.6819789434566</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e32">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">85</SimpleData>
+                        <SimpleData name="ID">195849</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6404780830601,44.6813541318873</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e33">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">86</SimpleData>
+                        <SimpleData name="ID">195842</SimpleData>
+                        <SimpleData name="PARCO">PARCO IL NOCE NERO_858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6423609751075,44.6838351465077</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e34">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">87</SimpleData>
+                        <SimpleData name="ID">195762</SimpleData>
+                        <SimpleData name="PARCO">PARCO SAMORA MACHEL_865</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.600737930315,44.6663069551088</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e35">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">88</SimpleData>
+                        <SimpleData name="ID">195826</SimpleData>
+                        <SimpleData name="PARCO">PARCO RENATO FUCINI DEDICATO A BRUNO E C</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6174140802873,44.6735963486099</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e36">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">89</SimpleData>
+                        <SimpleData name="ID">195827</SimpleData>
+                        <SimpleData name="PARCO">PARCO RENATO FUCINI DEDICATO A BRUNO E C</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.615475970943,44.673522552532</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e37">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">90</SimpleData>
+                        <SimpleData name="ID">195779</SimpleData>
+                        <SimpleData name="PARCO">PARCO BERNARDINO TELESIO_905</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6293523701577,44.6800742736337</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e38">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">91</SimpleData>
+                        <SimpleData name="ID">195885</SimpleData>
+                        <SimpleData name="PARCO">PARCO ALESSANDRO PERTINI_910</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5893348157083,44.705467380455</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e39">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">92</SimpleData>
+                        <SimpleData name="ID">195880</SimpleData>
+                        <SimpleData name="PARCO">CAMPO DI MARTE I_928</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.652925490626,44.6869566940991</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e3a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">93</SimpleData>
+                        <SimpleData name="ID">195883</SimpleData>
+                        <SimpleData name="PARCO">CAMPO DI MARTE I_928</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6503499575686,44.6871275958261</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e3b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">94</SimpleData>
+                        <SimpleData name="ID">195731</SimpleData>
+                        <SimpleData name="PARCO">PARCO DELLE ACQUE CHIARE_932</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6488020337867,44.6744936114738</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e3c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">95</SimpleData>
+                        <SimpleData name="ID">195860</SimpleData>
+                        <SimpleData name="PARCO">PARCO NILDE IOTTI_933</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5981418798126,44.6977236269024</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e3d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">96</SimpleData>
+                        <SimpleData name="ID">195861</SimpleData>
+                        <SimpleData name="PARCO">PARCO NILDE IOTTI_933</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6033684052687,44.7006822289355</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e3e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">97</SimpleData>
+                        <SimpleData name="ID">195817</SimpleData>
+                        <SimpleData name="PARCO">PARCO UGO LA MALFA_937</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6470713988151,44.6730512859765</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e3f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">98</SimpleData>
+                        <SimpleData name="ID">195818</SimpleData>
+                        <SimpleData name="PARCO">PARCO UGO LA MALFA_937</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6462495261859,44.6736802827115</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e40">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">99</SimpleData>
+                        <SimpleData name="ID">195752</SimpleData>
+                        <SimpleData name="PARCO">PARCO GIOVANNI BOLDINI_946</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5427230232693,44.7262399081031</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e41">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">100</SimpleData>
+                        <SimpleData name="ID">195803</SimpleData>
+                        <SimpleData name="PARCO">PARCO LA FORNACE_976</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6361051806555,44.7113059643766</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e42">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">101</SimpleData>
+                        <SimpleData name="ID">195800</SimpleData>
+                        <SimpleData name="PARCO">PARCO LA FORNACE_976</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6356295518567,44.7098360433508</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e43">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">102</SimpleData>
+                        <SimpleData name="ID">195804</SimpleData>
+                        <SimpleData name="PARCO">PARCO LA FORNACE_976</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6355413260342,44.7105578103279</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e44">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">103</SimpleData>
+                        <SimpleData name="ID">195892</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.7021827617531,44.6696503496672</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e45">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">104</SimpleData>
+                        <SimpleData name="ID">195888</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6110513464782,44.7015130770173</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e46">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">105</SimpleData>
+                        <SimpleData name="ID">195887</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6122454393778,44.7012390056466</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e47">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">106</SimpleData>
+                        <SimpleData name="ID">195882</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6513739278696,44.689659709905</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e48">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">107</SimpleData>
+                        <SimpleData name="ID">195881</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6527890803776,44.6891821768995</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e49">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">108</SimpleData>
+                        <SimpleData name="ID">195841</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.642324101365,44.6842861635992</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e4a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">109</SimpleData>
+                        <SimpleData name="ID">195839</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6722601598718,44.6816585147856</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e4b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">110</SimpleData>
+                        <SimpleData name="ID">195838</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6578158943053,44.6830407059353</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e4c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">111</SimpleData>
+                        <SimpleData name="ID">195879</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6535589777446,44.6881733940521</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e4d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">112</SimpleData>
+                        <SimpleData name="ID">195878</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6510601286326,44.6894972255312</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e4e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">113</SimpleData>
+                        <SimpleData name="ID">195875</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6349689196556,44.6878282397594</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e4f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">114</SimpleData>
+                        <SimpleData name="ID">195874</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.634845806461,44.6877964942715</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e50">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">115</SimpleData>
+                        <SimpleData name="ID">195873</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.635747082204,44.6873768849021</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e51">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">116</SimpleData>
+                        <SimpleData name="ID">195863</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5807623564906,44.7149065256714</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e52">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">117</SimpleData>
+                        <SimpleData name="ID">195862</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.601307110499,44.7035648000674</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e53">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">118</SimpleData>
+                        <SimpleData name="ID">195859</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6023401893449,44.6978192547429</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e54">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">119</SimpleData>
+                        <SimpleData name="ID">195858</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6040589718904,44.697166288496</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e55">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">120</SimpleData>
+                        <SimpleData name="ID">195857</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6056702298781,44.6967434976022</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e56">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">121</SimpleData>
+                        <SimpleData name="ID">195853</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6085277908485,44.6980365170451</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e57">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">122</SimpleData>
+                        <SimpleData name="ID">195852</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6115106891998,44.6985636251342</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e58">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">123</SimpleData>
+                        <SimpleData name="ID">195851</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6402274659324,44.6806360339685</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e59">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">124</SimpleData>
+                        <SimpleData name="ID">195843</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6411268117975,44.6846548115512</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e5a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">125</SimpleData>
+                        <SimpleData name="ID">195834</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6164416890108,44.6593015561897</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e5b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">126</SimpleData>
+                        <SimpleData name="ID">195833</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6149281637751,44.6595097686657</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e5c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">127</SimpleData>
+                        <SimpleData name="ID">195825</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.619020952627,44.6740618576998</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e5d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">128</SimpleData>
+                        <SimpleData name="ID">195823</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6408005570734,44.6755406665601</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e5e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">129</SimpleData>
+                        <SimpleData name="ID">195819</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6439515988031,44.6741760411411</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e5f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">130</SimpleData>
+                        <SimpleData name="ID">195809</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6364381611249,44.6780768034448</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e60">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">131</SimpleData>
+                        <SimpleData name="ID">195808</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6350384853275,44.6781623519739</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e61">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">132</SimpleData>
+                        <SimpleData name="ID">195807</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6340958726579,44.6769908771599</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e62">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">133</SimpleData>
+                        <SimpleData name="ID">195802</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6364451351759,44.7118925374808</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e63">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">134</SimpleData>
+                        <SimpleData name="ID">195801</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6356262923476,44.7100072986431</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e64">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">135</SimpleData>
+                        <SimpleData name="ID">195799</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5189894467161,44.7401686500755</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e65">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">136</SimpleData>
+                        <SimpleData name="ID">195797</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6186960564044,44.7428168746758</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e66">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">137</SimpleData>
+                        <SimpleData name="ID">195796</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6211195320414,44.7424047456421</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e67">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">138</SimpleData>
+                        <SimpleData name="ID">195790</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6171038394086,44.6812376104543</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e68">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">139</SimpleData>
+                        <SimpleData name="ID">195788</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6156287016521,44.6804393067292</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e69">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">140</SimpleData>
+                        <SimpleData name="ID">195787</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6077770271851,44.67375752719</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e6a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">141</SimpleData>
+                        <SimpleData name="ID">195785</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6438022206827,44.651433294013</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e6b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">142</SimpleData>
+                        <SimpleData name="ID">195784</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6504318034744,44.7037952145164</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e6c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">143</SimpleData>
+                        <SimpleData name="ID">195782</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5863080368924,44.6574478162371</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e6d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">144</SimpleData>
+                        <SimpleData name="ID">195781</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5864919112992,44.6535437897188</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e6e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">145</SimpleData>
+                        <SimpleData name="ID">195775</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6633103963273,44.6843141626964</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e6f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">146</SimpleData>
+                        <SimpleData name="ID">195773</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5772055305703,44.737762688151</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e70">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">147</SimpleData>
+                        <SimpleData name="ID">195728</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6498118472284,44.6877104689587</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e71">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">148</SimpleData>
+                        <SimpleData name="ID">195770</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.591441109449,44.7108071400921</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e72">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">149</SimpleData>
+                        <SimpleData name="ID">195769</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6154932645176,44.7006873344741</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e73">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">150</SimpleData>
+                        <SimpleData name="ID">195768</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6162204618443,44.7005247190058</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e74">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">151</SimpleData>
+                        <SimpleData name="ID">195764</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6011842764811,44.6671238964607</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e75">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">152</SimpleData>
+                        <SimpleData name="ID">195763</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6011056793258,44.6669353712005</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e76">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">153</SimpleData>
+                        <SimpleData name="ID">195761</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6485372511009,44.7119685783143</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e77">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">154</SimpleData>
+                        <SimpleData name="ID">195758</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6467020226607,44.7078051809892</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e78">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">155</SimpleData>
+                        <SimpleData name="ID">195757</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6291324653181,44.7093020057644</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e79">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">156</SimpleData>
+                        <SimpleData name="ID">195755</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6274317477898,44.7095065591275</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e7a">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">157</SimpleData>
+                        <SimpleData name="ID">195754</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6451840289526,44.6740734244751</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e7b">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">158</SimpleData>
+                        <SimpleData name="ID">195753</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.5422605993292,44.726597472839</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e7c">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">159</SimpleData>
+                        <SimpleData name="ID">195751</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6146090094551,44.6849309181444</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e7d">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">160</SimpleData>
+                        <SimpleData name="ID">195749</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6135709692861,44.6852539207646</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e7e">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">161</SimpleData>
+                        <SimpleData name="ID">195744</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6107599963685,44.6856922820619</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e7f">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">162</SimpleData>
+                        <SimpleData name="ID">195743</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.610396765912,44.6858674588184</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e80">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">163</SimpleData>
+                        <SimpleData name="ID">195742</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6098654167681,44.6859825035667</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e81">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">164</SimpleData>
+                        <SimpleData name="ID">195741</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6103054040495,44.6872941014298</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e82">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">165</SimpleData>
+                        <SimpleData name="ID">195740</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6274636937211,44.6953741810288</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e83">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">166</SimpleData>
+                        <SimpleData name="ID">195739</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6323167158452,44.7036587088652</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e84">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">167</SimpleData>
+                        <SimpleData name="ID">195733</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6226983336138,44.6836030987177</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e85">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">168</SimpleData>
+                        <SimpleData name="ID">195732</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6392417717606,44.6920699604339</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="AMB_PARCHI_CARTELLI.fid--29074ffb_195ef4105e3_2e86">
+                <ExtendedData>
+                    <SchemaData schemaUrl="#AMB_PARCHI_CARTELLI_1">
+                        <SimpleData name="OGR_FID">169</SimpleData>
+                        <SimpleData name="ID">195730</SimpleData>
+                    </SchemaData>
+                </ExtendedData>
+                <Point>
+                    <coordinates>10.6472192211616,44.6717377484668</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
